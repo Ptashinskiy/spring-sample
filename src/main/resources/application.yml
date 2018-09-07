@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/collaboration
+    username: root
+    password: digitalNight
+  jpa:
+    show-sql: true
+    generate-ddl: true
